@@ -1,0 +1,61 @@
+body {
+    background-color:lightblue;
+}
+
+h1 {
+    color: darkblue;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+
+h2 {
+    color:dodgerblue;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    color: darkslategrey;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: left;
+    font-size: 18px;
+}
+
+.logo {
+    width: 350px;
+    height: 200px;
+    align-items: center;
+}
+
+header {
+    padding: 60px;
+    text-align: center;
+    background-color: floralwhite;
+}
+
+.column {
+    float: none;
+    width: 75%;
+    padding: 20px;
+    text-align: center;
+    background-color: lightskyblue;
+    margin:0 auto;
+}
+
+ul {
+    text-align: center;
+}
+
+article {
+    text-align: left;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+img {
+    height: 25%;
+    width: 25%;
+    align-content: left;
+}
